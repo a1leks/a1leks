@@ -3,8 +3,7 @@ I'm a front-end developer with over **8 years of experience** providing solution
 
 ## Languages and tools 🔧
 
-JavaScript, TypeScript, Angular, React, AngularJs, ExtJs, HTML, CSS, RxJs, NgRx, Redux, Zustand, Object-Oriented Programming, Functional Programming, UI/UX, Essential Algorithms, Data Structures, RESTful APIs, SPA, PWA, SSR, GraphQL, HTTP, WebSocket, MQTT, Git, GitHub, GitLab, Unit Testing, E2E, 
-Playwright, Cypress, Jest, Vite, Webpack, Node.JS, NPM, Bootstrap, Tailwind CSS, Responsive Design, Figma, Firebase, Google Cloud Platform (GCP), Docker, CI/CD, Sentry, Kibana, Storybook, JSDoc, Postman, Swagger, Agile, Scrum, Clean Code, Desing Patterns
+JavaScript (ES5, ES6+), TypeScript, Angular, Ionic, RxJs, NgRx, React, Redux, Zustand, AngularJs, ExtJs, HTTP, MQTT, WebSocket, RESTful APIs, SPA, PWA, SSR, GraphQL, Web Workers, Jasmine, Docker, Git, GitHub, GitLab CI/CD, Firebase, Google Cloud Platform (GCP), Webpack, Vite, Node.js, Jira, UI/UX, SPA, Unit Testing, E2E, Manual Testing, Playwright, Cypress, Jest, Jasmine, Kibana, Sentry, Storybook, Postman, Swagger, NodeJs, NPM, HTML, CSS (Flexbox, Grid, Responsive Design, Cross-Browser, Frameworks), Bootstrap, Tailwind CSS, Figma, Object-Oriented Programming (OOP), Functional Programming (FP), Clean Code, Design Patterns, Essential Algorithms, Data Structures, Agile, Scrum, Jira, Confluence, Web Security, Performance Optimizing, Web Accessibility, Cross-Browser Compatibility
 
 ## Reach Out 📫
 
