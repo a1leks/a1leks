@@ -4,7 +4,7 @@ I am a front-end developer with over **8 years of experience** delivering soluti
 
 ## Skills & Tools 🔧
 
-JavaScript (ES5, ES6+), TypeScript, Angular, Ionic, RxJs, NgRx, React, Redux, Zustand, AngularJs, ExtJs, HTTP, MQTT, WebSocket, RESTful APIs, SPA, PWA, SSR, GraphQL, Web Workers, Docker, Git, GitHub, GitLab CI/CD, Firebase, Google Cloud Platform (GCP), Webpack, Vite, NodeJs, UI/UX, Unit Testing, E2E, Manual Testing, Playwright, Cypress, Jest, Jasmine, Kibana, Sentry, Storybook, Postman, Swagger, NPM, HTML, CSS (Flexbox, Grid, Responsive Design, Cross-Browser, Frameworks), Bootstrap, Tailwind CSS, Figma, Object-Oriented Programming (OOP), Functional Programming (FP), Clean Code, Design Patterns, Essential Algorithms, Data Structures, Agile, Scrum, Jira, Confluence, Web Security, Performance Optimizing, Web Accessibility, Cross-Browser Compatibility
+JavaScript (ES5, ES6+), TypeScript, Angular, React, AngularJS, Ionic, RxJS, NgRx, Redux, Zustand, ExtJS, HTTP, MQTT, WebSocket, RESTful APIs, SPA, PWA, SSR, GraphQL, Web Workers, Docker, Git, GitHub, GitLab CI/CD, Firebase, Google Cloud Platform (GCP), Webpack, Vite, Node.js, UI/UX, Unit Testing, E2E Testing, Manual Testing, Playwright, Cypress, Jest, Jasmine, Kibana, Sentry, Storybook, Postman, Swagger, NPM, HTML, CSS (Flexbox, Grid, Responsive Design, Frameworks), Bootstrap, Tailwind CSS, Figma, Object-Oriented Programming (OOP), Functional Programming (FP), Clean Code, Design Patterns, Essential Algorithms, Data Structures, Agile, Scrum, Jira, Confluence, Web Security, Performance Optimization,  Cross-Browser Compatibility, Web Accessibility
 
 ## Reach Out 📫
 
