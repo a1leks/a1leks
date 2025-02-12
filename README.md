@@ -1,6 +1,6 @@
 ## Aleksei Nevolin | Front End Engineer | 8+ yoe 👋
 
-I am a front-end developer with over **8 years of experience** delivering solutions across diverse industries, including cryptocurrency, trading, fintech, medicine, eCommerce, and computer-aided design (CAD). I specialize in Angular, React, JavaScript, and TypeScript. I am passionate about building rich and robust web/mobile applications. Currently based in Austin, Texas, and open to on-site or hybrid roles in the US, as well as remote opportunities worldwide.
+I am a front-end developer with over **8 years of experience** delivering solutions across diverse industries, including eCommerce, fintech, crowdfunding, transportation, trading, healthcare, and computer-aided design (CAD). Passionate about building rich and robust web and mobile applications. Currently based in Austin, Texas, and open to on-site or hybrid roles in Texas, as well as remote opportunities worldwide. Authorized to work in the U.S.
 
 ## Skills & Tools 🔧
 
